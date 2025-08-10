@@ -1,0 +1,7 @@
+streamlit
+numpy
+pandas
+librosa
+matplotlib
+scipy
+git+https://github.com/rahhuu1l/st-audiorec.git@main
